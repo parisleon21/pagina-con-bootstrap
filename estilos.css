@@ -1,0 +1,17 @@
+
+.imagenes{
+    
+  border-radius: 100%;
+}
+
+.text{
+  left: 300px;
+}
+.card{
+  margin-right: 10px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.border-top{
+  margin-top: 0;
+}
